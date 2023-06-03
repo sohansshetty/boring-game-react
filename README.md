@@ -1,1 +1,1 @@
-https://boringgame.netlify.app/
+https://boringgame.netlify.app
